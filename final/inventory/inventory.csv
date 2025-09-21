@@ -1,0 +1,8 @@
+ELEC-001,Resistor 10kΩ,15
+ELEC-002,Capacitor 100μF,30
+ELEC-005,Diode 1N4007,17
+MECH-001,Heat Sink Aluminum,56
+ELEC-012,LED Red 5mm,77
+ELEC-013,LED Green 5mm,42
+CTRL-003,Arduino Nano,74
+CTRL-004,Arduino Uno,45

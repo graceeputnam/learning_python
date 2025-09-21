@@ -1,0 +1,4 @@
+I want a cat. 
+I want a DOG. 
+I do not want a bird.
+A BIRD I do NOT want.

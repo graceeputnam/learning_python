@@ -1,0 +1,6 @@
+``The following parts need to be ordered
+PART: QUANTITY LACKING
+----------------------;heading;15``
+``ELEC-001: 1;line-1;40``
+``ELEC-002: 1;line-2;40``
+----------------------

@@ -1,0 +1,50 @@
+ELEC-001,Resistor 10kΩ,15
+ELEC-002,Capacitor 100μF,30
+ELEC-003,Inductor 1mH,62
+ELEC-004,Transistor NPN,98
+ELEC-005,Diode 1N4007,17
+ELEC-006,Voltage Regulator 5V,37
+CTRL-001,Microcontroller ATmega328P,16
+ELEC-007,Crystal Oscillator 16MHz,55
+ELEC-008,Op-Amp LM358,56
+ELEC-009,MOSFET IRF540,47
+MECH-001,Heat Sink Aluminum,56
+MECH-002,PCB Board 100x100mm,92
+ELEC-010,Relay 5V,68
+ELEC-011,Potentiometer 10kΩ,56
+ELEC-012,LED Red 5mm,77
+ELEC-013,LED Green 5mm,42
+ELEC-014,LED Blue 5mm,78
+ELEC-015,Push Button Switch,75
+ELEC-016,Toggle Switch SPDT,96
+ELEC-017,Rotary Encoder,64
+MECH-003,Servo Motor SG90,1
+MECH-004,DC Motor 12V,87
+MECH-005,Battery Holder 18650,19
+MECH-006,Breadboard 830 Points,90
+ELEC-018,Jumper Wires Male-Male,8
+ELEC-019,Jumper Wires Male-Female,60
+ELEC-020,Jumper Wires Female-Female,52
+MECH-007,Screw Terminal Block,65
+ELEC-021,Connector JST-XH 2.54mm,16
+ELEC-022,IC Socket 28-Pin,65
+ELEC-023,Voltage Divider Module,43
+ELEC-024,Buzzer Active 5V,94
+ELEC-025,Buzzer Passive 5V,69
+ELEC-026,Speaker 8Ω 1W,11
+ELEC-027,LCD 16x2 Display,29
+ELEC-028,OLED Display 128x64,19
+ELEC-029,7-Segment Display,85
+ELEC-030,Shift Register 74HC595,83
+ELEC-031,Logic Gate IC 7400,54
+ELEC-032,Micro SD Card Module,67
+ELEC-033,ESP32 Wi-Fi Module,70
+ELEC-034,ESP8266 Wi-Fi Module,6
+CTRL-002,Raspberry Pi Pico,88
+ELEC-035,Stepper Motor Driver A4988,65
+CTRL-003,Arduino Nano,74
+CTRL-004,Arduino Uno,45
+CTRL-005,Arduino Mega,14
+CTRL-006,Raspberry Pi 4B,86
+MECH-008,Soldering Iron 60W,6
+MECH-009,Multimeter Digital,93
