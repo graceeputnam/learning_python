@@ -1,0 +1,10 @@
+bbk------------------
+kbkkkk------------gkk
+kbr--kkkkkkkk-----gkk
+kkkk-kk-----k-----gkk
+k----kkkkkk-kkkk--gkk
+k-kkkkkkkkk-kkkk--gkk
+k-----------------gkk
+kkkkkkkkkkkkkkkkkkkkk
+2 5
+0

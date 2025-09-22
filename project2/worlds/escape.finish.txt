@@ -1,0 +1,10 @@
+bbk----------------r-
+kbkkkk------------gkk
+kbbbbkkkkkkkk-----gkk
+kkkkbkk-----k-----gkk
+kbbbbkkkkkk-kkkk--gkk
+kbkkkkkkkkk-kkkk--gkk
+kbbbbbbbbbbbbbbbbbgkk
+kkkkkkkkkkkkkkkkkkkkk
+20 7
+0

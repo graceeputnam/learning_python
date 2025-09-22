@@ -1,0 +1,9 @@
+kkkkkkk----kk
+kk---k-----kk
+kk-kkk--kkkkk
+--g----g-----
+kkk-kkkk-----
+k---k-----kkk
+kkkkk----kkkk
+0 3
+0

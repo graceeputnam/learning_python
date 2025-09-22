@@ -1,0 +1,12 @@
+bbk--kkkkkkkkkkk---g-
+kbkkkkkbbbbbbbkk--gkk
+kbbbbbbbkkkkkbkk--gkk
+kkkkkkkkkkkkkbkk--gkk
+k------------bkk--gkk
+k-kkkkkkkkkkkbkk--gkk
+k-----------kbbbbbgkk
+k-kkkkkkkkk-kkkkkkkkk
+k-----------------kkk
+kkkkkkkkkkkkkkkkkkkkk
+20 9
+0

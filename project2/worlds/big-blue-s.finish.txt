@@ -1,0 +1,12 @@
+-------kkkkkk----------kbbbbbk---
+kkkkk-kkbbbbk--kkk-----kbkkkkk---
+kkbbk--kbkkkk-kbbk-----kbk-------
+kkbkkkkkbkkkkkkbkkkkkkkkbkkkkkkkk
+--bb----bb-----bb-------bb-------
+kkkbkkkkkbkkkkkkbkkkkkkkkbkkkkkkk
+-kbbk---kbkkkkkkbk------kbk------
+--kkkkkkkbkbbbbbbk------kbk------
+-----kbbbbkkkkkkkkkkkkkkkbk------
+-----kkkkkkbbbbbbbbbbbbbbbk------
+32 5
+0
