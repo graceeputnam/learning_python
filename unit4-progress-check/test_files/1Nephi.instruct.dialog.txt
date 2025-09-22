@@ -1,0 +1,6 @@
+``1;word-count;10`` lines had the word "instruct":
+``- instruct me, that I should build a ship?;word-lines;35``
+``3;substring-count;10`` lines had the substring "instruct":
+``- instructed of the Lord.
+- instruct me, that I should build a ship?
+- should be kept for the instruction of my people, who should;substring-lines;35``

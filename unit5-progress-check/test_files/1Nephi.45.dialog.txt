@@ -1,0 +1,4 @@
+before: 45
+concerning: 45
+power: 45
+again: 45

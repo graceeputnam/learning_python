@@ -1,0 +1,4 @@
+The dog scattered the balls.
+The cat chased the dog.
+Then the dog chased the cat but didn't catch it. 
+The bird watched.

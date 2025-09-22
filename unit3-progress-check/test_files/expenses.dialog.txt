@@ -1,0 +1,22 @@
+Expense category: <<food>>
+Describe the expense: <<sushi>>
+Amount: <<12.50>>
+Expense category: <<food>>
+Describe the expense: <<cereal>>
+Amount: <<10.25>>
+Expense category: <<gas>>
+Describe the expense: <<chevron>>
+Amount: <<25.12>>
+Expense category: <<social>>
+Describe the expense: <<bowling>>
+Amount: <<11.50>>
+Expense category: <<food>>
+Describe the expense: <<lunch>>
+Amount: <<8.25>>
+Expense category: <<>>
+What category do you want to report on? <<food>>
+Summary of expenses for ``food;category;10````
+ $12.5 - sushi
+ $10.25 - cereal
+ $8.25 - lunch;itemized;50``
+Total: ``$31.0;category-total;30``

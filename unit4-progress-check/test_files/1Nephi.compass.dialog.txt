@@ -1,0 +1,5 @@
+``0;word-count;10`` lines had the word "compass":``
+;word-lines;35````3;substring-count;10`` lines had the substring "compass":``
+- that I could not move, the compass, which had been prepared of
+- the compass, and it did work whither I desired it. And it came
+- have compassion on the son of her womb? Yea, they may forget,;substring-lines;35``

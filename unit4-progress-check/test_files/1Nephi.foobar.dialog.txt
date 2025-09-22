@@ -1,0 +1,3 @@
+``0;word-count;30`` lines had the word "foobar":``
+;word-lines;10````0;substring-count;30`` lines had the substring "foobar":``
+;substring-lines;10``

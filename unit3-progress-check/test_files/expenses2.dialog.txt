@@ -1,0 +1,29 @@
+Expense category: <<grocery>>
+Describe the expense: <<Smiths>>
+Amount: <<25.76>>
+Expense category: <<social>>
+Describe the expense: <<movie>>
+Amount: <<4.12>>
+Expense category: <<school>>
+Describe the expense: <<notebooks and pens>>
+Amount: <<8.37>>
+Expense category: <<social>>
+Describe the expense: <<lunch>>
+Amount: <<9.45>>
+Expense category: <<grocery>>
+Describe the expense: <<Trader Joes>>
+Amount: <<13.45>>
+Expense category: <<social>>
+Describe the expense: <<another movie>>
+Amount: <<4.12>>
+Expense category: <<social>>
+Describe the expense: <<Creamery>>
+Amount: <<9.45>>
+Expense category: <<>>
+What category do you want to report on? <<social>>
+Summary of expenses for ``social;category;10````
+ $4.12 - movie
+ $9.45 - lunch
+ $4.12 - another movie
+ $9.45 - Creamery;itemized;50``
+Total: ``$27.14;category-total;30``
