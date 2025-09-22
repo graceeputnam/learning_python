@@ -1,0 +1,2 @@
+Enter a string: <<Do you like to code?>>
+``DO yOU lIkE tO cOdE?;upper;95``

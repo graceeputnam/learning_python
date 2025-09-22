@@ -1,0 +1,2 @@
+Enter a string: <<All week I look at roots.>>
+``All weeeeeek I looooook at roooooots.;doubled;95``

@@ -1,0 +1,2 @@
+Enter a string: <<We seek good food with cheese.>>
+``We seeeeeek gooooood fooooood with cheeeeeese.;doubled;95``

@@ -1,0 +1,2 @@
+Enter a string: <<30%? That\'s crazy!>>
+``30 percent? That\'s crazy (for reals).;for_reals;95``

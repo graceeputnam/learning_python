@@ -1,0 +1,2 @@
+Enter a string: <<I saw a cow that was 50% bigger than my car!>>
+``I saw a cow that was 50 percent bigger than my car (for reals).;for_reals;95``

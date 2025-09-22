@@ -1,0 +1,2 @@
+Enter a string: <<And it came to pass...>>
+``And It cAmE tO pAss...;upper;95``

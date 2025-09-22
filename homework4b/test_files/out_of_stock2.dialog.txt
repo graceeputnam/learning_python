@@ -1,0 +1,13 @@
+What items are out of stock?
+Item: <<bread>>
+Item: <<milk>>
+Item: <<>>
+What items would you like to purchase?
+Item: <<apples>>``
+;apples;10``Item: <<bread>>``
+I'm sorry,;sorry;20`` the item ``BREAD;upper-case;20`` is out of stock.
+Item: <<carrots>>
+Item: <<>>
+You have ``2;length;10`` items:``
+- apples
+- carrots;items;20``

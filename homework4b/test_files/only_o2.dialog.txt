@@ -1,0 +1,2 @@
+Enter a string: <<And it came to pass...>>
+``Ond ot como to poss...;only_o;95``

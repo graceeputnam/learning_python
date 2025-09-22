@@ -1,0 +1,9 @@
+Characters to block: <<aeiou>>
+Replacement: <<*>>
+Word: <<fry>>
+``fry;no-replace;20``
+Word: <<toast>>
+``t**st;basic-replace;20``
+Word: <<EPIC>>
+``*P*C;casing;40``
+Word: <<>>
