@@ -1,0 +1,29 @@
+Enter a student.
+Name: <<Max>>
+Hometown: <<Provo>>
+School: <<BYU>>
+Enter a student.
+Name: <<John>>
+Hometown: <<Orem>>
+School: <<BYU>>
+Enter a student.
+Name: <<Jane>>
+Hometown: <<Orem>>
+School: <<UVU>>
+Enter a student.
+Name: <<James>>
+Hometown: <<Salt Lake>>
+School: <<UofU>>
+Enter a student.
+Name: <<Jill>>
+Hometown: <<Provo>>
+School: <<BYU>>
+Enter a student.
+Name: <<>>
+BYU Students:``
+- MAX
+- JOHN
+- JILL;byu-students;50``
+Other Students:``
+- Jane
+- James;other-students;30``

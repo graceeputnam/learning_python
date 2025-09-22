@@ -1,0 +1,7 @@
+Enter strings. End with an empty string.
+<<!>>
+<<super..;>>
+<<!!232323>>
+<<BYU!!!!!!>>
+<<>>
+BYU!!!!!!

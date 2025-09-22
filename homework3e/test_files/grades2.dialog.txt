@@ -1,0 +1,25 @@
+Enter scores for each student.
+Enter a blank student name to end.
+Student: <<Ramsey>>
+Score: <<89>>
+Student: <<Paul>>
+Score: <<79>>
+Student: <<Jack>>
+Score: <<77>>
+Student: <<Jill>>
+Score: <<67>>
+Student: <<Victor>>
+Score: <<89>>
+Student: <<Bill>>
+Score: <<92>>
+Student: <<Richard>>
+Score: <<98>>
+Student: <<>>
+Bonus: <<.15>>
+Cutoff: <<89>>
+High Scores:
+``- 102.3: Ramsey
+- 90.8: Paul
+- 102.3: Victor
+- 105.8: Bill
+- 112.7: Richard;high-scores;80``

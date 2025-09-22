@@ -1,0 +1,21 @@
+Enter ratings for this class.
+Each rating includes a score and a comment.
+Use a blank score to end.
+Score: <<8.3>>
+Comment: <<In-depth material, but well explained>>
+Score: <<6.5>>
+Comment: <<The course was tougher than I expected>>
+Score: <<7.9>>
+Comment: <<Engaging lectures, though some topics were a bit dry>>
+Score: <<9.0>>
+Comment: <<Learned a lot, fantastic curriculum!>>
+Score: <<7.0>>
+Comment: <<Good course but some assignments were unclear>>
+Score: <<>>
+Average rating: ``7.7;average;40``
+``Comments:
+- In-depth material, but well explained
+- The course was tougher than I expected
+- Engaging lectures, though some topics were a bit dry
+- Learned a lot, fantastic curriculum!
+- Good course but some assignments were unclear;comments;50``

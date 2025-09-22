@@ -1,0 +1,2 @@
+Enter a string: <<h311o my fr13nd>>
+``h***o my fr**nd;asterisks;80``

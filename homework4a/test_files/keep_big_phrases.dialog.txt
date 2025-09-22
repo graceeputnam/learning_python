@@ -1,0 +1,7 @@
+Enter strings. End with an empty string.
+<<BYU Rocks!>>
+<<My name is Michaela Rachel Johnson.>>
+<<Nope.>>
+<<Almost. But not quite.>>
+<<>>
+``['BYU Rocks!', 'My name is Michaela Rachel Johnson.'];filtered;80``

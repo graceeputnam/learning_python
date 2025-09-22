@@ -1,0 +1,2 @@
+Enter a string: <<	Tabs move the cursor to defined spots on the screen.>>
+``10;num-spaces;90``

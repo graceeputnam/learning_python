@@ -1,0 +1,6 @@
+Enter strings. End with an empty string.
+<<..>>
+<<...!>>
+<<.>>
+<<>>
+...!

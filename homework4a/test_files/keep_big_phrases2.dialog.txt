@@ -1,0 +1,7 @@
+Enter strings. End with an empty string.
+<<UofU>>
+<<My name is Inigo Montoya.>>
+<<Still nope.>>
+<<Almost. But not quite.>>
+<<>>
+``[];filtered;80``

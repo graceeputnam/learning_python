@@ -1,0 +1,2 @@
+Enter a string: <<	This line starts with a tab.>>
+``6;num-spaces;90``
