@@ -1,0 +1,20 @@
+Favorite Candy: <<Skittles>>
+Favorite Candy: <<Skittles>>
+Favorite Candy: <<Reese's Cups>>
+Favorite Candy: <<Snickers>>
+Favorite Candy: <<Almond Joy>>
+Favorite Candy: <<Kit-Kat>>
+Favorite Candy: <<Snickers>>
+Favorite Candy: <<Snickers>>
+Favorite Candy: <<Snickers>>
+Favorite Candy: <<Butterfinger>>
+Favorite Candy: <<Almond Joy>>
+Favorite Candy: <<Twix>>
+Favorite Candy: <<Butterfinger>>
+Favorite Candy: <<Almond Joy>>
+Favorite Candy: <<M&M's>>
+Favorite Candy: <<Milky Way>>
+Favorite Candy: <<Butterfinger>>
+Favorite Candy: <<Skittles>>
+Favorite Candy: <<>>
+{'Skittles': 3, "Reese's Cups": 1, 'Snickers': 4, 'Almond Joy': 3, 'Kit-Kat': 1, 'Butterfinger': 3, 'Twix': 1, "M&M's": 1, 'Milky Way': 1}
