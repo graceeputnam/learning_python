@@ -1,0 +1,1 @@
+West: ['Brooks', 'Casspi', 'Gortat', 'Qi', 'Stephens', 'Teodosic', 'Smith', 'Caldwell', 'Maxwell', 'Olajuwon']

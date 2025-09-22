@@ -1,0 +1,21 @@
+Phrase: <<BYU is known for its blue colors.>>
+Phrase: <<The cougar at BYU is majestic.>>
+Phrase: <<Cougars are frequently seen in blue at BYU.>>
+Phrase: <<At BYU, the spirit of the cougar is vibrant and blue.>>
+Phrase: <<BYU cougars cherish their blue uniforms.>>
+Phrase: <<The BYU cougars are known for their blue spirit.>>
+Phrase: <<Cougar.>>
+Phrase: <<>>
+``2:
+BYU is known for its blue colors.
+The cougar at BYU is majestic.;twos;33``
+
+``3:
+Cougars are frequently seen in blue at BYU.
+At BYU, the spirit of the cougar is vibrant and blue.
+BYU cougars cherish their blue uniforms.
+The BYU cougars are known for their blue spirit.;threes;33``
+
+``1:
+Cougar.;ones;33``
+
